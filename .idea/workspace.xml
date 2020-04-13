@@ -12,6 +12,16 @@
       <executable />
     </execution>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1aD2OkCUMtLICyplOUZ6pxDycp1" />
   <component name="ProjectViewState">
@@ -20,6 +30,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -45,6 +56,7 @@
       <workItem from="1586515702080" duration="1912000" />
       <workItem from="1586687122541" duration="1635000" />
       <workItem from="1586772519210" duration="517000" />
+      <workItem from="1586775377675" duration="22000" />
     </task>
     <servers />
   </component>
